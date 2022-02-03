@@ -129,6 +129,15 @@
     },
     {
       "id": "13"
+    },
+    {
+      "name": "joe",
+      "species": "joenut",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
